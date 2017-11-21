@@ -1,0 +1,2 @@
+# FacebokLoginScreen
+Now a days almost every web and mobile app provides an option of Login with Facebook. This is because most of the people have a facebook account and facebook has provided an easy to integrate Android Facebook Login SDK 4 to add Facebook Login to your mobile apps, morever while logging in with facebook you don’t need to remember your UserId and password separately for each such app.
